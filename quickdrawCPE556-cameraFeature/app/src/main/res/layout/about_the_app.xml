@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height= "match_parent"
+    android:layout_gravity="center_horizontal|center_vertical"
+    android:text="The Quick Draw app is a project worked on by four ECE students at Stevens Institute of Technology. The focus of the app was to integrate three different sensors into one application, tracking arm speed. The sensors used were: an accelerometer, gyroscope, and camera. The best way to learn more about the app is to give it a try yourself!"
+    android:textAlignment="center"
+    android:textSize="24dp"
+    android:textStyle="bold"
+    android:background="#D1D3D3"
+
+    />

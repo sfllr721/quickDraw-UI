@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quick Draw</string>
+    <string name="edit_message">Enter your name</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_update_user_info">updateUserInfo</string>
+    <string name="my_menu">My Menu</string>
+    <string name="welcome_to_quick_draw">Welcome to Quick Draw</string>
+</resources>
